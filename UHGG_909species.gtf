@@ -1,0 +1,17 @@
+100002	Prodigal:2.6	CDS	257	355	.	+	0	gene_id "100002_00001";
+100002	Prodigal:2.6	CDS	486	1649	.	-	0	gene_id "100002_00002"; gene_name "pdxB";
+100002	Prodigal:2.6	CDS	1649	2731	.	-	0	gene_id "100002_00003"; gene_name "serC";
+100002	Prodigal:2.6	CDS	2728	4404	.	-	0	gene_id "100002_00004"; gene_name "ilvG";
+100002	Prodigal:2.6	CDS	4514	6187	.	-	0	gene_id "100002_00005"; gene_name "ilvD_1";
+100002	Prodigal:2.6	CDS	6257	7339	.	-	0	gene_id "100002_00006"; gene_name "leuB";
+100002	Prodigal:2.6	CDS	7579	7878	.	-	0	gene_id "100002_00007";
+100002	Prodigal:2.6	CDS	7996	9153	.	-	0	gene_id "100002_00008"; gene_name "tgt";
+100002	Prodigal:2.6	CDS	9607	13857	.	+	0	gene_id "100002_00009";
+100002	Prodigal:2.6	CDS	14034	15653	.	-	0	gene_id "100002_00010";
+100002	Prodigal:2.6	CDS	15657	16259	.	-	0	gene_id "100002_00011"; gene_name "ung";
+100002	Prodigal:2.6	CDS	17102	17860	.	-	0	gene_id "100002_00012"; gene_name "hisF_1";
+100002	Prodigal:2.6	CDS	17863	18480	.	-	0	gene_id "100002_00013"; gene_name "hisH";
+100002	Prodigal:2.6	CDS	18790	20307	.	-	0	gene_id "100002_00014"; gene_name "sasA_1";
+100002	Prodigal:2.6	CDS	20307	20984	.	-	0	gene_id "100002_00015"; gene_name "srrA_1";
+100002	Prodigal:2.6	CDS	21347	21580	.	+	0	gene_id "100002_00016";
+100002	Prodigal:2.6	CDS	22121	22327	.	-	0	gene_id "100002_00017";
